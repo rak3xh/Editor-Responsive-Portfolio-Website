@@ -366,8 +366,18 @@ img {
   color: #fff;
   margin: 0 var(--mb-2);
 }
+.footer__icon:hover {
+  color: #3e6ff4;
+}
 .footer__copy {
   font-size: var(--smaller-font-size);
+}
+.footer__copy a {
+  color: white;
+}
+.footer__copy a:hover {
+  color: #3e6ff4;
+  font-size: 12.5px;
 }
 
 /* ===== MEDIA QUERIES=====*/
