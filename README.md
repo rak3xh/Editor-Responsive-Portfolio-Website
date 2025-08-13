@@ -1,4 +1,4 @@
-# Portfolio Responsive Under Progress
+# Portfolio Responsive Website
 
 - Responsive Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
